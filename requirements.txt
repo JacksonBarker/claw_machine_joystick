@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+micropython-rp2-stubs==1.19.1.post6

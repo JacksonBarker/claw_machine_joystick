@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "22cbd0eb63c26acd63480a77977449637f570e637cc31cdbd06202fde5ba41c0"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "micropython-rp2-stubs": {
+            "hashes": [
+                "sha256:3e1971945a0bb393043dae6f1d8028a138611c8c1cb211813d1a7e4fa0e4257d",
+                "sha256:67414e5d5b921c0f0865dc8f87cafcd01b255cc749710d5d2e4fe5871badbad9"
+            ],
+            "index": "pypi",
+            "version": "==1.19.1.post6"
+        }
+    },
+    "develop": {}
+}
